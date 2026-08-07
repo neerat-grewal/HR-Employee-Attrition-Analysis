@@ -1,4 +1,4 @@
- -- Business question: Which department has the highest attrition rate, and is it better explained by low job satisfaction, work-life balance, or overtime load?
+ -- Business question: Which department has the highest attrition rate, and which variables are impacting it?
 
 -- 1. Attrition rate and average satisfaction scores by department
 SELECT
